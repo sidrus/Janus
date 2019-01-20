@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Janus</string>
+
+    <string name="action_settings">settings</string>
+    <string name="action_about">about</string>
+
+    <string name="winner_name">Winner\'s Name</string>
+    <string name="choose_btn_text">Choose!</string>
+    <string name="title_activity_manage_names">Manage Names</string>
+    <string name="save_changes_btn_text">Save Changes</string>
+    <string name="cancel_changes_btn_text">Cancel</string>
+    <string name="names_list_auto_fill_hint">Enter name...</string>
+    <string name="names_list_default_text">TextView Text</string>
+    <string name="manage_names_add_btn_text">Add</string>
+    <string name="main_textview_default_text">TextView Default</string>
+    <string name="main_prevent_repeat_selections_switch_text">Prevent Repeat Selections</string>
+</resources>
